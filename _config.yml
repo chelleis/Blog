@@ -3,7 +3,7 @@ title: LTEC 647C Blog
 header-img: img/pattern.png
 email: your-email@yourdomain.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "ltec647c.github.io"
+baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: SBootstrap
 github_username:  davidtmiller
