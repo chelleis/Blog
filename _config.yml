@@ -1,7 +1,7 @@
 # Site settings
 title: LTEC 647C Blog
 header-img: img/pattern.png
-email
+email: email@yourdomain.com
 description: ""
 baseurl: "/weblog"
 url: "http://yourdomain.com"
