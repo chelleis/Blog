@@ -1,13 +1,13 @@
 # Site settings
 title: LTEC 647C Blog
 header-img: img/pattern.png
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/ltec-647c-blog-jekyll"
+email: -
+description: ""
+baseurl: "/weblog"
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: 
+github_username:  chelleis
+facebook_username:  
 
 # Build settings
 markdown: kramdown
