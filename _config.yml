@@ -5,9 +5,9 @@ email: -
 description: ""
 baseurl: "/weblog"
 url: "http://yourdomain.com"
-twitter_username: 
-github_username:  chelleis
-facebook_username:  
+twitter_username: SBootstrap
+github_username:  davidtmiller
+facebook_username:  IronSummitMedia
 
 # Build settings
 markdown: kramdown
